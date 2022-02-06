@@ -23,6 +23,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 ![](https://github.com/senelmustafa/kodluyoruzilkrepo/blob/main/kolacanim.PNG)
+
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
